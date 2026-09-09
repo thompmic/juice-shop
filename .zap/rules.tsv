@@ -5,4 +5,4 @@
 10015	WARN	Review cache policy by endpoint
 10020	WARN	Review framing protection
 10021	WARN	Review X-Content-Type-Options
-10038	WARN	Review Content-Security-Policy
+10038	FAIL	Validated absent on 5 sampled responses; required control for the bypassSecurityTrustHtml sink in main.js
